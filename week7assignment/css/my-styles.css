@@ -1,0 +1,50 @@
+        * {
+        font-family: Arial, Verdana, sans-serif;
+        color: #665544;
+        box-sizing: border-box;}
+        
+        header h1 {
+        color: white;
+        text-align: center;
+        font-weight: 800;
+        font-family: 'Courier New', Courier, monospace;
+        }
+
+        div h1 {
+        font-weight: 800;
+
+        }
+
+        h4 {
+            color: white;
+        }
+
+        h2 {
+            color: white;
+        }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight:500; 
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%;
+        text-align: center;
+    
+    }
+
+        nav li {
+        display: inline;
+		padding: 0.5em;
+        color: white;}
+
+        .row-color-1 {
+            background-color:rgb(0, 0, 0);
+        }
